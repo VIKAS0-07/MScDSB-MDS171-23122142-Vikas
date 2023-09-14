@@ -1,0 +1,2 @@
+Item,Qty,Price,Amount
+apple,2,30,60
