@@ -12,6 +12,7 @@ studentDict = {}
 def createStudent(name,regno,email,phone):
     student = {
         "Name": name,
+        "Regno": regno,
         "Email": email,
         "Phone": phone
     }
