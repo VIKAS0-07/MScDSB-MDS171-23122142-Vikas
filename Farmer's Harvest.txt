@@ -1,2 +1,4 @@
 Item,Qty,Price,Amount
 apple,5,30,150
+apple,10,30,300
+apple,15,30,450
